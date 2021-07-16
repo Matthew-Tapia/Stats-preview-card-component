@@ -30,7 +30,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [https://matthew-tapia.github.io/Stats-preview-card-component/]
 
 ## My process
